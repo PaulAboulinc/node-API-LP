@@ -1,0 +1,23 @@
+{
+  "name": "api-lp",
+  "version": "1.0.0",
+  "description": "node-API-LP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulAboulinc/node-API-LP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulAboulinc/node-API-LP/issues"
+  },
+  "homepage": "https://github.com/PaulAboulinc/node-API-LP#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "express": "^4.16.2"
+  }
+}
